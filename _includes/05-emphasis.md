@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some programmin skills I have learned are **HTML**, **CSS**, **Javascript**, **PHP**, and **SQL**. 
